@@ -1,12 +1,12 @@
 {
-  "version": "0.13.20",
+  "version": "0.13.21",
   "description": "maxx",
   "homepage": "https://github.com/awsl-project/maxx",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/awsl-project/maxx/releases/download/v0.13.20/maxx.exe",
-      "hash": "dd410b5679d8898fd57d8e5923ed43c94a2baa45e223b1c2f381fa67582c39de"
+      "url": "https://github.com/awsl-project/maxx/releases/download/v0.13.21/maxx.exe",
+      "hash": "f5c8439237c7ba23b50816118de503d0552845f1ca9216029cd80f785f9b8a70"
     }
   },
   "bin": "maxx.exe",
